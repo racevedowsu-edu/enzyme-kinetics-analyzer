@@ -8,6 +8,9 @@ Eadie–Hofstee analysis
 Lineweaver–Burk analysis
 
 The tool emphasizes visual learning, data interpretation, and conceptual understanding rather than coding or software setup.
+## Notebook Version (Colab)
+Run directly in your browser:
+[Open in Colab](https://colab.research.google.com/drive/1645xz2C725pUuXu2welgLP_-YoiuALPl#scrollTo=fWlkPfwc4FWk)
 
 # Purpose
 Students often struggle with:
