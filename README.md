@@ -63,19 +63,11 @@ See:
 - examples/data/
 - examples/results/
 
-
-The program expects data in the following format:
-
-[OAA] (uM)	2000	2000	2000	1000	...
-Time (s)	Abs	Abs	Abs	Abs	
-0	      0.404	...	
-5	        ...	
-	
 Briefly:
 First row: substrate concentrations (uM)
 Second row: "Abs"
 First column: time (s)
-Replicates are automatically grouped
+Replicates are automatically grouped by substrate concentration
 
 # Educational Use
 This tool is designed to support:
