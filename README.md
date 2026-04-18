@@ -59,7 +59,10 @@ Data tables (Excel)
 Summary tables (PNG)
 
 # Input Data Format (see example data)
-
+See:
+- examples/data/
+- examples/results/
+- 
 The program expects data in the following format:
 
 [OAA] (uM)	2000	2000	2000	1000	...
