@@ -38,19 +38,23 @@ Automatic detection of substrate concentrations
 Handles replicate measurements (averaging + standard deviation)
 Linear regression for initial velocity determination
 Optional blank correction
+## Interface
+![GUI Screenshot](images/gui.png)
 
-Generates a 4-panel figure:
-1.Progress curves
-2.Michaelis–Menten plot
-3.Eadie–Hofstee plot
-4. Lineweaver–Burk plot
+## Example Output
+### Single Dataset Analysis
+![Single Mode Example](images/single_mode_example.png.png)
 
-Displays:
+### WT vs Mutant Comparison
+![Dual Mode Example](images/dual_mode_example.png)
+
+
+## Displays:
 Km ± SD
 Vmax ± SD
 R² values
 
-Supports:
+## Supports:
 kcat and kcat/Km calculations
 WT vs mutant comparison
 Exports:
@@ -62,6 +66,8 @@ Summary tables (PNG)
 See:
 - examples/data/
 - examples/results/
+## Raw Data
+![Example CSV](images/raw_data.png)
 
 Briefly:
 First row: substrate concentrations (uM)
